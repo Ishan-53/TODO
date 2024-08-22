@@ -4,7 +4,7 @@ import { AuthorContainer } from './styles';
 
 function Author() {
   return (
-    <AuthorContainer>Created by Govind Ladha</AuthorContainer>
+    <AuthorContainer>Created by Ishan</AuthorContainer>
   )
 }
 
